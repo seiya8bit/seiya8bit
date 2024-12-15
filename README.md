@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yamaimo-illus
 - 👀 I’m interested in SvelteKit and #gamedev, #pixelart.
-- 🌱 I’m currently learning TypeScript and C#.
+- 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to collaborate on web applications using SvelteKit.
 - 📫 How to reach me X(@yamaimo_illus), Email(yamaimo.illus@gmail.com).
 - 😄 Pronouns: he/him, yamaimo.
