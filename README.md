@@ -2,7 +2,7 @@
 - 👀 I’m interested in SvelteKit and Flutter, #gamedev, #pixelart.
 - 🌱 I’m currently learning TypeScript/Dart.
 - 💞️ I’m looking to collaborate on web applications using SvelteKit.
-- 📫 How to reach me X(@SeiyaPixel), Email(yamaimo.illus@gmail.com).
+- 📫 How to reach me [X(@SeiyaPixel)](https://x.com/SeiyaPixel), Email(yamaimo.illus@gmail.com).
 - 😄 Pronouns: he/him, Seiya.
 - ⚡ Fun fact: I enjoy creating 🎨pixel art and 🎹playing piano in my free time!
 
