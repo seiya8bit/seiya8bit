@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SeiyaPixel
+- 👋 Hi, I’m @seiya8bit
 - 👀 I’m interested in SvelteKit and Flutter, #gamedev, #pixelart.
 - 🌱 I’m currently learning TypeScript/Dart.
 - 💞️ I’m looking to collaborate on web applications using SvelteKit.
-- 📫 How to reach me [X(@SeiyaPixel)](https://x.com/SeiyaPixel).
+- 📫 How to reach me [X(@seiya8bit)](https://x.com/seiya8bit).
 - 😄 Pronouns: he/him, Seiya.
 - ⚡ Fun fact: I enjoy creating 🎨pixel art and 🎹playing piano in my free time!
 
