@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seiya8bit
-- 👀 I’m interested in SvelteKit and Unity, #gamedev, #pixelart.
-- 🌱 I’m currently learning TypeScript/C#.
+- 👀 I’m interested in SvelteKit and Godot, #gamedev, #pixelart.
+- 🌱 I’m currently learning TypeScript/GDScript.
 - 💞️ I’m looking to collaborate on web applications using SvelteKit.
 - 📫 How to reach me [X(@seiya8bit)](https://x.com/seiya8bit).
 - 😄 Pronouns: he/him, Seiya.
