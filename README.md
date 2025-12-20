@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seiya8bit
-- 👀 I’m interested in Next.js and Waku, SvelteKit, #gamedev, #pixelart, #keyball.
+- 👀 I’m interested in Waku and Godot Engine, #gamedev, #pixelart, #keyball.
 - 🌱 I’m currently learning TypeScript and GDScript.
 - 💞️ I’m looking to collaborate on game development with the Godot Engine.
 - 📫 How to reach me [X(@seiya8bit)](https://x.com/seiya8bit).
