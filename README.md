@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="header" src="https://github.com/user-attachments/assets/e5b07350-74f7-4546-ad06-837ca123aca8" />
+  <img width="100%" alt="header" src="https://github.com/user-attachments/assets/e344ea55-e329-4a43-a6ae-d0857a902b29" />
 </p>
 
 Hi, I'm Seiya 👋
