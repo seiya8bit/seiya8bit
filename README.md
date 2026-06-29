@@ -4,13 +4,13 @@
 
 Hi, I'm Seiya 👋
 
-Game developer and pixel artist working with Godot Engine.  
-I enjoy making small games, creating pixel art, and building web tools with Next.js and TypeScript.
+I'm a web developer, game developer, pixel artist, and 3D modeler.  
+I love retro games and nostalgic streetscapes.
 
-- 🎮 Making indie games with Godot Engine
-- 🎨 Creating pixel art and game assets
-- 🌱 Learning TypeScript and GDScript
-- 🤝 Open to small Godot game collaborations
-- 📫 Find me on [X (@seiya8bit)](https://x.com/seiya8bit)
+🌐 Building websites with Next.js  
+🎮 Making games with Godot Engine  
+🎨 Creating game assets, pixel art, and 3D models  
+🏙️ Inspired by retro games and old town scenery  
+📫 Find me on X: [@seiya8bit](https://x.com/seiya8bit)
 
-Making tiny games, one pixel at a time.
+Taking small steps every day, one pixel at a time.
